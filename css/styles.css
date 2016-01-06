@@ -1,0 +1,36 @@
+header {
+  text-align: center;
+  font-family: Patrick Hand;
+}
+
+body {
+  background-color: #bed2d0;
+  font-family: Short Stack;
+  }
+
+footer {
+  font-family: fantasy;
+  text-align: center;
+  clear: both;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+div {
+  text-align: center;
+}
